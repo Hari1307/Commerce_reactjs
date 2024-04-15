@@ -1,0 +1,14 @@
+.shop-banner img {
+  display: block;
+  width: 80%;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.shop-categoey-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 30px;
+}
